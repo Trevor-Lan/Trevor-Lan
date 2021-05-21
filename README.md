@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://raw.githubusercontent.com/Trevor-Lan/Trevor-Lan/main/coding.png)

@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align:center">
-<img width="70%" src="https://raw.githubusercontent.com/Trevor-Lan/Trevor-Lan/main/coding1.png">
-</div>
-
+<img src="https://raw.githubusercontent.com/Trevor-Lan/Trevor-Lan/main/coding1.png">

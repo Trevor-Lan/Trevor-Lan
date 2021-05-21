@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/Trevor-Lan/Trevor-Lan/main/coding.png)
+<img width="70%" src="https://raw.githubusercontent.com/Trevor-Lan/Trevor-Lan/main/coding1.png">

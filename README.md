@@ -1,4 +1,4 @@
-###  Hello, everyone! ，I'm Trevor, welcome to my github homepage👋
+###  Hello, everyone! , welcome to my github homepage👋
 
 <!--
 **Trevor-Lan/Trevor-Lan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

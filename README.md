@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Want to be a full stack developer
+
+- 😄  Welcome to visit **projects**.
+
+<div class="half">
+  <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Trevor-Lan&count_private=true&show_icons=true" />
+</div>
+
+### 🛠 &nbsp;Tech Stack
+![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![mysql.js](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+![redis](https://img.shields.io/badge/-redis-333333?style=flat&logo=redis)
+![rabbitmq](https://img.shields.io/badge/-rabbitmq-333333?style=flat&logo=rabbitmq)
+![git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
+![portainer](https://img.shields.io/badge/-portainer-333333?style=flat&logo=portainer)
+![grafana](https://img.shields.io/badge/-grafana-333333?style=flat&logo=grafana)
+![kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
+![swarm](https://img.shields.io/badge/-swarm-333333?style=flat&logo=swarm)
+![centos](https://img.shields.io/badge/-centos-333333?style=flat&logo=centos)
+![jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins)
+![prometheus](https://img.shields.io/badge/-prometheus-333333?style=flat&logo=prometheus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+
+### 🤝🏻 &nbsp;Contact with Me
+<a href="mailto:qa894178522@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1143458312@qq.com-blue?style=flat-square&logo=gmail"></a>
+

@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Want to be a full stack developer
-
-- 😄  Welcome to visit **projects**.
+- 😄  My **projects**.
 
 <div class="half">
   <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Trevor-Lan&count_private=true&show_icons=true" />

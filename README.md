@@ -30,15 +30,19 @@ Here are some ideas to get you started:
 ![rabbitmq](https://img.shields.io/badge/-rabbitmq-333333?style=flat&logo=rabbitmq)
 ![git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
 ![portainer](https://img.shields.io/badge/-portainer-333333?style=flat&logo=portainer)
-![grafana](https://img.shields.io/badge/-grafana-333333?style=flat&logo=grafana)
-![kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
 ![swarm](https://img.shields.io/badge/-swarm-333333?style=flat&logo=swarm)
 ![centos](https://img.shields.io/badge/-centos-333333?style=flat&logo=centos)
-![jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins)
-![prometheus](https://img.shields.io/badge/-prometheus-333333?style=flat&logo=prometheus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 
+### 🌱currently learning
+
+![kubernetes](https://cdn.coder369.com/img/blog/-kubernetes-333333)
+![grafana](https://img.shields.io/badge/-grafana-333333?style=flat&logo=grafana)
+![prometheus](https://img.shields.io/badge/-prometheus-333333?style=flat&logo=prometheus)
+![jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins)
+
 ### 🤝🏻 &nbsp;Contact with Me
+
 <a href="mailto:admin@coder369.com"><img alt="Email" src="https://img.shields.io/badge/Email-admin@coder369.com-blue?style=flat-square&logo=gmail"></a>
 
 <a href="mailto:1143458312@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1143458312@qq.com-blue?style=flat-square&logo=gmail"></a>

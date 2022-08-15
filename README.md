@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄  My **projects**.
-
-<div class="half">
-  <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Trevor-Lan&count_private=true&show_icons=true" />
-</div>
-
 ### 🛠 &nbsp;Tech Stack
+
+![go](https://img.shields.io/badge/-go-333333?style=flat&logo=go)
 ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
 ![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
@@ -36,14 +32,11 @@ Here are some ideas to get you started:
 
 ### 🌱currently learning
 
-![kubernetes](https://cdn.coder369.com/img/blog/-kubernetes-333333)
+![kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
 ![grafana](https://img.shields.io/badge/-grafana-333333?style=flat&logo=grafana)
 ![prometheus](https://img.shields.io/badge/-prometheus-333333?style=flat&logo=prometheus)
 ![jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins)
 
 ### 🤝🏻 &nbsp;Contact with Me
 
-<a href="mailto:admin@coder369.com"><img alt="Email" src="https://img.shields.io/badge/Email-admin@coder369.com-blue?style=flat-square&logo=gmail"></a>
-
-<a href="mailto:1143458312@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1143458312@qq.com-blue?style=flat-square&logo=gmail"></a>
-
+<a href="mailto:trevorlan@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-trevorlan@163.com-blue?style=flat-square&logo=gmail"></a>

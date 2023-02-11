@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ![rabbitmq](https://img.shields.io/badge/-rabbitmq-333333?style=flat&logo=rabbitmq)
 ![git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
 ![portainer](https://img.shields.io/badge/-portainer-333333?style=flat&logo=portainer)
-![swarm](https://img.shields.io/badge/-swarm-333333?style=flat&logo=swarm)
 ![centos](https://img.shields.io/badge/-centos-333333?style=flat&logo=centos)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 
